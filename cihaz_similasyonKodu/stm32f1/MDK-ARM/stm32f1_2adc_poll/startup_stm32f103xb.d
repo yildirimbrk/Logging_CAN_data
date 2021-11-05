@@ -1,0 +1,1 @@
+stm32f1_2adc_poll\startup_stm32f103xb.o: startup_stm32f103xb.s
